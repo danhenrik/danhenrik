@@ -24,7 +24,7 @@
 	  <div>
 		  <a href="https://www.linkedin.com/in/daniel-hts/">
 		    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
-			</a>
+		  </a>
 		  <a href = "mailto:danihtoledo22@gmail.com">
 			<img src="https://img.shields.io/badge/-Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white">
 		  </a>
