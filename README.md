@@ -20,7 +20,7 @@
 		<img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	</div>
 	  <br>
-	<h2> Feel free to reach me out </h2>
+	<h2> Feel free to reach out to me</h2>
 	  <div>
 		  <a href="https://www.linkedin.com/in/daniel-hts/">
 		    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
