@@ -1,6 +1,4 @@
 <div align="center"> 
-  <div align="right"><a href="https://github.com/danhenrik" target="_blank"><img alt="visitorsCounter" src=https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife/>
-	</div>
   <h1>Hello there! I'm Daniel. 👋</h1>
 	<p> I'm currently working as a backend developer but i'm also interested in game development and a little bit of machine learning.</p>
 	<p> I'm also in a IS (Information Systems) degree at UFMG.</p>
