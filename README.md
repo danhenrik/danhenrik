@@ -1,7 +1,6 @@
 <div align="center"> 
   <h1>Hello there! I'm Daniel. 👋</h1>
-	<p> I'm currently working as a backend developer but i'm also interested in game development and a little bit of machine learning.</p>
-	<p> I'm also in a IS (Information Systems) degree at UFMG.</p>
+	<p> I'm currently half way through my IS (Information Systems) bachelor's degree, currently working with backend using the Node.js stack. I'm also interested in a little bit of game development as a hobby and definitly interested but far away from the  machine learning world.</p>
 	<div align="center" style="display: inline_block">
 	  <h2>My tech stack:</h2>
 		<img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -17,14 +16,14 @@
 		<img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 	</div>
 	  <br>
-	<h2> Feel free to reach out to me</h2>
+	<h2>Feel free to reach out to me</h2>
 	  <div>
 		  <a href="https://www.linkedin.com/in/daniel-hts/">
 		    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
 		  </a>
-		  <a href = "mailto:danihtoledo22@gmail.com">
+<!-- 		  <a href = "mailto:danihtoledo22@gmail.com">
 			<img src="https://img.shields.io/badge/-Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white">
-		  </a>
+		  </a> -->
 		</h1>
 	</div>
 </div>
