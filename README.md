@@ -1,8 +1,8 @@
 <div align="center"> 
   <h1>Hello there! I'm Daniel. 👋</h1>
-	<p> I'm currently halfway through my IS (Information Systems) bachelor's degree, currently working with backend development using the Node.js stack. I'm also interested in a little bit of game development as a hobby and machine learning, even though I'm a little far away from this world.</p>
+	<p> I'm currently halfway through my IS (Information Systems) bachelor's degree, currently working with backend development using Node.js and TypeScript. I'm also interested in a little bit of game development as a hobby and machine learning, even though I'm a little far away from this world right now.</p>
 	<div align="center" style="display: inline_block">
-	  <h2>My tech stack:</h2>
+	  <h2>My tooling:</h2>
 		<img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 		<img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 		<img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
