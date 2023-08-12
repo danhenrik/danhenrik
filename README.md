@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>Hello there! I'm Daniel. 👋</h1>
-	<p> I'm currently at the last year of my IS (Information Systems) bachelor's degree at DCC UFMG. Currently working with backend development using Node.js and AWS Services. I'm also interested in a little bit of game development (as gaming is one of my hobbies), complex and distributed systems and finally a little bit of computer networks.</p>
+	<p> I'm currently at the last year of my Information Systems bachelor's degree at DCC UFMG. Currently working with backend development using Node.js and AWS. I'm also interested in a little bit of game development (as gaming is one of my hobbies), complex and distributed systems and a little bit of computer networks.</p>
 	<div align="center" style="display: inline_block">
 	  <h2>My tooling:</h2>
 		<img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
